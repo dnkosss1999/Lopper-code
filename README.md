@@ -1,11 +1,9 @@
 # Lopper-code
 ## Installation
-Press the key combination Ctrl + Alt + T to open Terminal
 ```bash
+Press the key combination Ctrl + Alt + T to open Terminal
 https://github.com/dnkosss1999/Lopper-code.git
-```
 Press cd Lopper-code
-```
 Press code.
 ```
 ## Link
